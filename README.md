@@ -1,4 +1,3 @@
-测试了下，代码有点缺陷，需要改bug 
 ##                                                        sentinel 持久化nacos 版本
 ### 1. 下载源码   打包运行 sentinel-dashboard 模块 
 ### 2. 客户端引入maven依赖
